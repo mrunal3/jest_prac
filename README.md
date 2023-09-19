@@ -1,1 +1,1 @@
-# jest_prac
+Jest is a popular JavaScript testing framework that is commonly used for front-end testing. It is particularly well-suited for testing applications built with technologies like React, Vue.js, Angular, or vanilla JavaScript. 
